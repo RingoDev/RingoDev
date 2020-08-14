@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
+- 🔭 I’m currently working on my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar) and my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
 - 🌱 I’m currently learning Typescript, Angular, Spring
 - 📫 How to reach me: shoot me a mail at ringodev@protonmail.com
 - ⚡ Fun fact: I only started programming a year ago and now i'm addicted
