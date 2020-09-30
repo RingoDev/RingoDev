@@ -3,15 +3,11 @@
 
 <!--Todo insert Logo Image -->
 
-<details>
-  <summary>I’m currently working on</summary>
-  <br>
-  
+### I’m currently working on
+
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
 * [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
 * [x] my Vue/Spring-boot project [**Stocks**](https://github.com/RingoDev/stocks).
-
-</details>
 
 ### I’m currently learning 
 
