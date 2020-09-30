@@ -1,6 +1,6 @@
 ## Welcome to [RingoDev's](https://ringodev.com) Github page
 
-### I’m currently working on:
+### I’m currently working on
 
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
 * [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
@@ -16,7 +16,7 @@
 * [x] [Docker](https://www.docker.com/)
 * [x] [Jenkins](https://www.jenkins.io/)
 
-### How to reach me:
+### How to reach me
 
 * shoot me a mail at ringodev@protonmail.com 
 * send me a short message through my [homepage](https://ringodev.com).
