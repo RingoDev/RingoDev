@@ -1,6 +1,6 @@
-<center> 
+
 ## Welcome to [RingoDev's](https://ringodev.com) Github page
-</center>
+
 
 ### I’m currently working on
 
