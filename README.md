@@ -1,7 +1,7 @@
 
 <h2 align="center">Welcome to <a href="https://ringodev.com">RingoDev's</a> Github page</h2>
 
-
+// Todo insert Logo Image 
 
 ### I’m currently working on
 
