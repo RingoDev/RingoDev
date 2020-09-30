@@ -6,6 +6,7 @@
 ### I’m currently working on
 
 <details>
+  <br>
   
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
 * [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
