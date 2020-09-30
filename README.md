@@ -21,4 +21,4 @@
 * shoot me a mail at ringodev@protonmail.com 
 * send me a short message through my [homepage](https://ringodev.com).
   
-### Fun fact: I only started programming a year ago and now i'm addicted.
+### I only started programming a year ago and now i'm addicted.
