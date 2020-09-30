@@ -1,5 +1,6 @@
 
-## Welcome to [RingoDev's](https://ringodev.com) Github page
+<h2 align="center">Welcome to <p href="https://ringodev.com">RingoDev's</p> Github page</h2>
+
 
 
 ### I’m currently working on
