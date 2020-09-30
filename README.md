@@ -3,8 +3,8 @@
 
 <!--Todo insert Logo Image -->
 
-<details>
-  <summary><p>I’m currently working on</p></summary>
+<details>I’m currently working on
+  <summary><p></p></summary>
   <br>
   
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
