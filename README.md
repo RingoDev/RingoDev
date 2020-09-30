@@ -4,7 +4,7 @@
 <!--Todo insert Logo Image -->
 
 <details>
-  <summary><h3>I’m currently working on</h3></summary>
+  <summary><p>I’m currently working on</p></summary>
   <br>
   
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
