@@ -18,6 +18,7 @@
 * [x] [MySQL](https://www.mysql.com/)
 * [x] [Docker](https://www.docker.com/)
 * [x] [Jenkins](https://www.jenkins.io/)
+* [x] [Hugo](https://gohugo.io/)
 
 ### How to reach me
 
