@@ -7,7 +7,8 @@
 
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
 * [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
-* [x] my Vue/Spring-boot project [**Stocks**](https://github.com/RingoDev/stocks).
+* [ ] my Vue/Spring-boot project [**Stocks**](https://github.com/RingoDev/stocks).
+* [x] a port of my Vue-Stocks frontend to React with Typescript
 
 ### I’m currently learning 
 
@@ -17,8 +18,10 @@
 * [ ] [Vue](https://vuejs.org/)
 * [x] [MySQL](https://www.mysql.com/)
 * [x] [Docker](https://www.docker.com/)
-* [x] [Jenkins](https://www.jenkins.io/)
-* [x] [Hugo](https://gohugo.io/)
+* [ ] [Jenkins](https://www.jenkins.io/)
+* [ ] [Hugo](https://gohugo.io/)
+* [x] [React](https://reactjs.org/)
+* [x] [Typescript](https://www.typescriptlang.org/)
 
 ### How to reach me
 
