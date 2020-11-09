@@ -25,7 +25,7 @@
 
 ### How to reach me
 
-* shoot me a mail at ringodev@protonmail.com 
+* shoot me a mail at thomas.grininger@ringodev.com 
 * send me a short message through my [homepage](https://ringodev.com).
   
 ### I only started programming a year ago and now i'm addicted.
