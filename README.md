@@ -8,20 +8,25 @@
 * [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
 * [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
 * [ ] my Vue/Spring-boot project [**Stocks**](https://github.com/RingoDev/stocks).
-* [x] a port of my Vue-Stocks frontend to React with Typescript
+* [ ] a port of my Vue-Stocks frontend to React with Typescript
+* [ ] a Sudoku-Solver with a self improving digit detection algorithm.
 
 ### I’m currently learning 
 
 * [ ] [Angular](https://angular.io)
-* [x] [Spring](https://spring.io)
+* [ ] [Spring](https://spring.io)
 * [ ] [Flutter](https://flutter.dev)
 * [ ] [Vue](https://vuejs.org/)
-* [x] [MySQL](https://www.mysql.com/)
-* [x] [Docker](https://www.docker.com/)
+* [ ] [MySQL](https://www.mysql.com/)
+* [ ] [Docker](https://www.docker.com/)
 * [ ] [Jenkins](https://www.jenkins.io/)
 * [ ] [Hugo](https://gohugo.io/)
-* [x] [React](https://reactjs.org/)
-* [x] [Typescript](https://www.typescriptlang.org/)
+* [ ] [React](https://reactjs.org/)
+* [ ] [Typescript](https://www.typescriptlang.org/)
+* [x] [Django](https://www.djangoproject.com/)
+* [x] [TensorFlow](https://www.tensorflow.org/)
+* [x] [OpenCV](https://opencv.org/)
+
 
 ### How to reach me
 
