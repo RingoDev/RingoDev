@@ -33,4 +33,6 @@
 * shoot me a mail at thomas.grininger@ringodev.com 
 * send me a short message through my [homepage](https://ringodev.com).
   
-### I only started programming a year ago and now i'm addicted.
+### I started a company
+
+It's called [WebStories](https://web-stories.at) and we are doing webdevelopment and webdesign for smaller enterprises. Check it out if you need someone to take care of tedious design work for a webproject.
