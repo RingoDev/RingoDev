@@ -5,28 +5,7 @@
 
 ### I’m currently working on
 
-* [ ] my Angular-Spring project [**BetBazar**](https://github.com/RingoDev/BetBazar).
-* [ ] my Flutter project [**Memento**](https://github.com/RingoDev/Memento).
-* [ ] my Vue/Spring-boot project [**Stocks**](https://github.com/RingoDev/stocks).
-* [ ] a port of my Vue-Stocks frontend to React with Typescript
-* [ ] a Sudoku-Solver with a self improving digit detection algorithm.
-
-### I’m currently learning 
-
-* [ ] [Angular](https://angular.io)
-* [ ] [Spring](https://spring.io)
-* [ ] [Flutter](https://flutter.dev)
-* [ ] [Vue](https://vuejs.org/)
-* [ ] [MySQL](https://www.mysql.com/)
-* [ ] [Docker](https://www.docker.com/)
-* [ ] [Jenkins](https://www.jenkins.io/)
-* [ ] [Hugo](https://gohugo.io/)
-* [ ] [React](https://reactjs.org/)
-* [ ] [Typescript](https://www.typescriptlang.org/)
-* [x] [Django](https://www.djangoproject.com/)
-* [x] [TensorFlow](https://www.tensorflow.org/)
-* [x] [OpenCV](https://opencv.org/)
-
+* My Bachelor's thesis which features an [interactive application](https://interactive-study-planner.netlify.app) that allows students to create a semester-spanning study plan
 
 ### How to reach me
 
