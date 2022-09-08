@@ -3,10 +3,6 @@
 
 <!--Todo insert Logo Image -->
 
-### I’m currently working on
-
-* My Bachelor's thesis which features an [interactive application](https://interactive-study-planner.netlify.app) that allows students to create a semester-spanning study plan
-
 ### How to reach me
 
 * shoot me a mail at thomas.grininger@ringodev.com 
