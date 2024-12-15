@@ -5,9 +5,10 @@
 
 ### How to reach me
 
+* T
 * shoot me a mail at thomas.grininger@ringodev.com 
 * send me a short message through my [homepage](https://ringodev.com).
   
-### I started a company
+### I started a blog
 
-It's called [WebStories](https://web-stories.at) and we are doing webdevelopment and webdesign for smaller enterprises. Check it out if you need someone to take care of tedious design work for a webproject.
+It will be focused on security engineering, vulnerability management and product development in the security space. Check it out at [https://blog.ringodev.com](https://blog.ringodev.com)
