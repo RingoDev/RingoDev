@@ -11,4 +11,4 @@
   
 ### I started a blog
 
-It will be focused on security engineering, vulnerability management and product development in the security space. Check it out at [https://blog.ringodev.com](https://blog.ringodev.com)
+It will be focused on security engineering, vulnerability management and product development in the security space. Check it out at [blog.ringodev.com](https://blog.ringodev.com)
